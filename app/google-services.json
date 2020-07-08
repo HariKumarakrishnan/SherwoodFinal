@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071982889206",
+    "firebase_url": "https://sherwood-app-66f5b.firebaseio.com",
+    "project_id": "sherwood-app-66f5b",
+    "storage_bucket": "sherwood-app-66f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071982889206:android:d801e11948b37ba07104d7",
+        "android_client_info": {
+          "package_name": "com.example.hackathonproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071982889206-uelodehbhkf2p99ha3vg7rbq2a4932dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD114r8nOno3cRWRkckbnbMpem_Bo36gmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071982889206-uelodehbhkf2p99ha3vg7rbq2a4932dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
